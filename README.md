@@ -51,6 +51,3 @@ The dependencies can also be installed using the included requirements.txt file:
 
 pip install -r requirements.txt
 ```python
-palm_x = sum(
-    landmarks[i].x for i in (0, 5, 9, 13, 17)
-) / 5
